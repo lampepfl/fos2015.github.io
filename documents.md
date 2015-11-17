@@ -113,7 +113,7 @@ or by [4](slides/week10-2x2.pdf).
   
 
   
-### Featherweight Java
+### Objects
 
 Download for [screen](slides/week11.pdf),
 for printing by [2](slides/week11-1x2.pdf)
