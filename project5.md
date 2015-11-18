@@ -42,7 +42,7 @@ Unlike the typecheckers in projects #3 and #4 that went top-down on input abstra
 and assigned types in one pass, this one is going to be more involved, featuring two phases:
 
   1. During the first phase, our Hindley-Milner typechecker will recursively collect constraints on the types of expressions present in the input tree.
-  2. Afterwards in the second phase, it is going to solve these constraints, producing either the resulting type or the list of errors encountered by the solver.
+  2. Afterwards in the second phase, it is going to solve these constraints, either producing the resulting type or failing with an error.
 
 Below we will explain how this works in details, essentially recapping what's written in TAPL.
 The methodology that has been presented during the lecture on type reconstruction and polymorphism
@@ -135,7 +135,7 @@ which will tell us two things: A) whether the input is well-typed, B) how to mak
 
 Phase 2 is going to process the constraint set and either produce an error
 or return a *substitution*, i.e. a mapping from type variables to types
-that can be used can be used to replace type variables in the type returned by phase 1.
+that can be used to replace type variables in the type returned by phase 1.
 For example, unification of the constraint set `[X = Bool]` will yield the substitution `[X → Bool]`,
 and applying that substitution to `X -> Bool` will produce the resulting type of the example expression:
 `Bool -> Bool` (note the arrows that we're using!).
