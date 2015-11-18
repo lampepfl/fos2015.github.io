@@ -37,6 +37,10 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Wed, 4 Nov  | **Solving midterm-like problems in class** ([exercises](slides/penpaper-midterm2015-exercises.pdf), [solutions](slides/penpaper-midterm2015-solutions.pdf)) |
 | Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                                                            |
 | Wed, 11 Nov | **Midterm** (visit the mailing list to find out which room you're assigned to)                           |
+| Tue, 17 Nov | Course *Subtyping*                                                                                       |
+| Wed, 18 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction*                              |
+| Tue, 24 Nov | Course *Objects*                                                                                         |
+| Wed, 25 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction*                              |
 | ...         |                                                                                                          |
 
 ### Grading
