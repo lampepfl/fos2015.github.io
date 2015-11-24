@@ -19,7 +19,7 @@ Eugene Burmako<br/>
 INR 320<br/>
 <eugene.burmako@epfl.ch><br/>
 *Office hours*: Mon 10:00-11:30<br/>
-*Responsibilities*: General questions, administrative questions,<br/>mailing list, website and grading infrastructure, project 2<br/>
+*Responsibilities*: General questions, administrative questions,<br/>mailing list, website and grading infrastructure, projects 2 and 5<br/>
 
 
 
@@ -35,5 +35,5 @@ Amir Shaikhha<br/>
 BC 247<br/>
 <amir.shaikhha@epfl.ch><br/>
 *Office hours*: Wed 15:30-17:00<br/>
-*Responsibilities*: General questions, projects 3 and 5<br/>
+*Responsibilities*: General questions, project 3<br/>
 

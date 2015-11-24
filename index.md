@@ -42,6 +42,7 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Tue, 24 Nov | Course *Objects*                                                                                         |
 | Wed, 25 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction*                              |
 | ...         |                                                                                                          |
+| Mon, 25 Jan | **Final exam, 16:00 - 18:00 in CO1**
 
 ### Grading
 
