@@ -34,15 +34,15 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Tue, 27 Oct | Course *More Extensions to STLC*                                                                         |
 | Wed, 28 Oct | Exercise session on *simply typed lambda calculus with extensions*                                       |
 | Tue, 3 Nov  | Course *Recursion and State with STLC*                                                                   |
-| Wed, 4 Nov  | **Solving midterm-like problems in class** ([exercises](slides/penpaper-midterm2015-exercises.pdf), [solutions](slides/penpaper-midterm2015-solutions.pdf)) |
+| Wed, 4 Nov  | Solving midterm-like problems in class ([exercises](slides/penpaper-midterm2015-exercises.pdf), [solutions](slides/penpaper-midterm2015-solutions.pdf)) |
 | Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                                                            |
-| Wed, 11 Nov | **Midterm** (visit the mailing list to find out which room you're assigned to)                           |
+| Wed, 11 Nov | Midterm ([exercises](slides/midterm2015-exercises.pdf), [solutions](slides/midterm2015-solutions.pdf))                           |
 | Tue, 17 Nov | Course *Subtyping*                                                                                       |
 | Wed, 18 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction*                              |
 | Tue, 24 Nov | Course *Objects*                                                                                         |
 | Wed, 25 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction*                              |
 | Tue, 1 Dec  | Course *Featherweight Java*                                                                              |
-| Wed, 2 Dec  | **Solving final-exam-like problems in class** ([exercises](slides/penpaper-final2015-1.pdf))             |
+| Wed, 2 Dec  | Solving final-exam-like problems in class ([exercises](slides/penpaper-final2015-1-exercises.pdf), [solutions](slides/penpaper-final2015-1-solutions.pdf))             |
 | ...         |                                                                                                          |
 | Mon, 25 Jan | **Final exam, 16:00 - 18:00 in CO1**
 
