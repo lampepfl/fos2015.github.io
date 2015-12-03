@@ -27,7 +27,7 @@ Denys Shabalin<br/>
 INR 317<br/>
 <denys.shabalin@epfl.ch><br/>
 *Office hours*: Tue 17:00-18:30<br/>
-*Responsibilities*: General questions, projects 1, 4 and 6<br/>
+*Responsibilities*: General questions, projects 1 and 4<br/>
 
 
 

@@ -50,6 +50,8 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 
 Each enrolled student will receive a grade based on their results for the projects, the midterm exam and the final exam. The relative importance of each part is: 30% for projects, 30% for the midterm and 40% for the final.
 
+### Cheating
+
 Sharing ideas between groups is very recommended. Plagiarising code as part of a project will not be tolerated — whatever the source. In particular, you are not allowed to publish your projects in public repositories at GitHub/Bitbucket/... or to use solutions published by others.
 
 In case of cheating, you will receive the grade “NA” (not acquired, zero) for the concerned project or exam, or for the whole course. You may furthermore be denounced and punished in accordance with the [ordonnance sur la discipline](http://www.admin.ch/ch/f/rs/4/414.138.2.fr.pdf). If you are in any fashion worried about this, speak with an assistant.

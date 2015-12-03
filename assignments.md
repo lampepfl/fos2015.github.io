@@ -7,7 +7,7 @@ index: 3
 
 ### Administrivia
 
-Over the course of the semester, we will post six assignments that will require you to code up six moderately complex Scala applications (one per each assignment) that highlight certain theoretical aspects of the course.
+Over the course of the semester, we will post six assignments that will require you to code up six moderately complex Scala applications (one per each assignment) that highlight certain theoretical aspects of the course. **Update (2 Dec 2015):** we have cancelled project #6 in favor of additional pen & paper sessions.
 
 Every assignment will become available on this website at due time (usually after the deadline of the previous assignment). We will be notifying you about the arrival of new assignments on the [mailing list](/mailing-list.html), so be sure to join it.
 
