@@ -18,7 +18,7 @@ INR 319<br/>
 Eugene Burmako<br/>
 INR 320<br/>
 <eugene.burmako@epfl.ch><br/>
-*Office hours*: Mon 10:00-11:30<br/>
+*Office hours*: Mon 10:00-11:30 (vacation from 21 Dec to 8 Jan)<br/>
 *Responsibilities*: General questions, administrative questions,<br/>mailing list, website and grading infrastructure, projects 2 and 5<br/>
 
 
@@ -26,7 +26,7 @@ INR 320<br/>
 Denys Shabalin<br/>
 INR 317<br/>
 <denys.shabalin@epfl.ch><br/>
-*Office hours*: Tue 17:00-18:30<br/>
+*Office hours*: Tue 17:00-18:30 (vacation from 21 Dec to 8 Jan)<br/>
 *Responsibilities*: General questions, projects 1 and 4<br/>
 
 
