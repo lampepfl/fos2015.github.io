@@ -47,7 +47,6 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Wed, 9 Dec  | Solving final-exam-like problems in class ([exercises](slides/penpaper-final2015-2-exercises.pdf), [solutions](slides/penpaper-final2015-2-solutions.pdf))       |
 | Tue, 15 Dec | Course *Foundations of Scala (cont.)*                                                                    |
 | Wed, 16 Dec | Solving final-exam-like problems in class ([exercises](slides/penpaper-final2015-3-exercises.pdf))                                                              |
-| ...         |                                                                                                          |
 | Mon, 25 Jan | **Final exam, 16:00 - 18:00 in CO1**
 
 ### Grading
