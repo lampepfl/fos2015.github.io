@@ -135,4 +135,4 @@ or by [4](slides/week12-2x2.pdf).
 
 ### Foundations of Scala
 
-Download for [screen](slides/week13.pdf).
+Download for screen: [part 1](slides/week13.pdf), [part 2](slides/week14.pdf).
